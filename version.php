@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'filter_fxtex';
-$plugin->version = 2026111900;
+$plugin->version = 2026112000;
 // Moodle 4.1, as for the CodeCogs Equation Editor (tiny_eqneditor), whose equations this displays.
 $plugin->requires = 2022112800;
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = '1.0.0';
+$plugin->release = '1.0.1';
